@@ -1,4 +1,4 @@
-# bang-bang-friday
+# bang-bang-saturday
 find your perfect developer mate right here on github!
 
 
