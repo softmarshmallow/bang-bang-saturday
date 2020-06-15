@@ -1,4 +1,7 @@
+![logo](documents/logo.png)
+
 # bang-bang-saturday
+
 find your perfect developer mate right here on github!
 
 
